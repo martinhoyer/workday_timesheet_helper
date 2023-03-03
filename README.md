@@ -1,3 +1,12 @@
+Fork of frenzymadness's script, with a few ugly hacks to better suit my needs.
+
+Biggest difference is that it doesn't randomize hours and accepts `--month` argument 
+which tries to fill the whole month.\
+Any potential effort of making this more presentable is overshadowed by a lack 
+of interest for touching anything workday related.\
+Original README below.
+___
+
 # WorkDay timesheet helper
 
 I am releasing the first version of the time sheet helper for WorkDay!
