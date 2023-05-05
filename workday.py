@@ -129,7 +129,7 @@ def main():
                 continue
             day.click()
 
-        br.find_element("xpath", "//button[@title='Cancel']").click()
+        br.find_element("xpath", "//button[@title='OK']").click()
         if not args.month:
             break
 
